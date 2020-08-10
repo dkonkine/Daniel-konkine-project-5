@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Daniel-konkine-project-5/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Daniel-konkine-project-5/static/js/main.d4a6443c.chunk.js",
-    "main.js.map": "/Daniel-konkine-project-5/static/js/main.d4a6443c.chunk.js.map",
+    "main.js": "/Daniel-konkine-project-5/static/js/main.69375c40.chunk.js",
+    "main.js.map": "/Daniel-konkine-project-5/static/js/main.69375c40.chunk.js.map",
     "runtime-main.js": "/Daniel-konkine-project-5/static/js/runtime-main.fc2804ac.js",
     "runtime-main.js.map": "/Daniel-konkine-project-5/static/js/runtime-main.fc2804ac.js.map",
     "static/js/2.32eb91f9.chunk.js": "/Daniel-konkine-project-5/static/js/2.32eb91f9.chunk.js",
     "static/js/2.32eb91f9.chunk.js.map": "/Daniel-konkine-project-5/static/js/2.32eb91f9.chunk.js.map",
     "index.html": "/Daniel-konkine-project-5/index.html",
-    "precache-manifest.44e7ab5ec3e1865d1d35923d4b79762c.js": "/Daniel-konkine-project-5/precache-manifest.44e7ab5ec3e1865d1d35923d4b79762c.js",
+    "precache-manifest.79c5c94d6be0ff0a7ba1fa6ae537f4b2.js": "/Daniel-konkine-project-5/precache-manifest.79c5c94d6be0ff0a7ba1fa6ae537f4b2.js",
     "service-worker.js": "/Daniel-konkine-project-5/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Daniel-konkine-project-5/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.32eb91f9.chunk.js.LICENSE.txt": "/Daniel-konkine-project-5/static/js/2.32eb91f9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fc2804ac.js",
     "static/js/2.32eb91f9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d4a6443c.chunk.js"
+    "static/js/main.69375c40.chunk.js"
   ]
 }
