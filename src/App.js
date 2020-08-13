@@ -39,22 +39,25 @@ class App extends Component {
   userSubmit = (event, userInput) => {
     event.preventDefault();
 
-    if(this.state.userInput === "") {
+    if(userInput === "") {
       alert("Input field required");
       return;
     }
 
     const secURL = `http://api.weatherstack.com/current?access_key=${WEATHER_KEY}&query=${userInput}&units=m`
     
-    console.log(secURL);
     axios
     .get(secURL)
     .then((res) => {
-      this.setState({
-        weatherData: res.data,
-      })
+      if(res.data.hasOwnProperty('error')) {
+        alert("City does not exist")
+      } else {
+        this.setState({
+          weatherData: res.data
+        })
+      }
+      console.log(res);
     })
-    
   }
 
 
@@ -86,7 +89,7 @@ class App extends Component {
           this.state.cityName === ''
           ? null
           : <div className="location-box">
-              <div className="location">{this.state.weatherData.location.name} {this.state.weatherData.location.region}</div>
+              <div className="location">{this.state.weatherData.request.query}</div>
               <div className="date">{currentDate (new Date())}</div>
               <div className="weather-box">
               <div className="temp">{this.state.weatherData.current.temperature}℃</div>
@@ -104,3 +107,4 @@ class App extends Component {
 }
 
 export default App;
+
