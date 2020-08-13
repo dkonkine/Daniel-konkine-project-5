@@ -128,3 +128,20 @@ img {
   width: 40%;
   border-radius: 50%;
 }
+
+@media (min-width: 840px) {
+
+  .search-box .search-bar {
+    width: 50%;
+  }
+
+  .search-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  img {
+    width: 20%;
+  }
+}

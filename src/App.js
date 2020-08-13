@@ -18,8 +18,7 @@ class App extends Component {
 
   componentDidMount() {
     
-
-    const URL = `http://api.weatherstack.com/current?access_key=${WEATHER_KEY}&query=toronto&units=m`
+    const URL = `https://api.weatherstack.com/current?access_key=${WEATHER_KEY}&query=toronto&units=m`
 
     axios
     .get(URL)
@@ -44,7 +43,7 @@ class App extends Component {
       return;
     }
 
-    const secURL = `http://api.weatherstack.com/current?access_key=${WEATHER_KEY}&query=${userInput}&units=m`
+    const secURL = `https://api.weatherstack.com/current?access_key=${WEATHER_KEY}&query=${userInput}&units=m`
     
     axios
     .get(secURL)
