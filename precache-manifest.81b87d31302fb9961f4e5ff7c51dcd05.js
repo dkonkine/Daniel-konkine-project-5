@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f76afdb3c5aef88399cb9c2b0333459d",
+    "revision": "1405b4c23990fba46daddfd38913e9ba",
     "url": "/Daniel-konkine-project-5/index.html"
   },
   {
-    "revision": "f417a14579967166a6d6",
-    "url": "/Daniel-konkine-project-5/static/css/main.85b87f1a.chunk.css"
+    "revision": "32980e647451092811fd",
+    "url": "/Daniel-konkine-project-5/static/css/main.4a43acad.chunk.css"
   },
   {
     "revision": "fa0cb6c6b3343dda648f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Daniel-konkine-project-5/static/js/2.9accbb5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f417a14579967166a6d6",
-    "url": "/Daniel-konkine-project-5/static/js/main.02999456.chunk.js"
+    "revision": "32980e647451092811fd",
+    "url": "/Daniel-konkine-project-5/static/js/main.ba5df919.chunk.js"
   },
   {
     "revision": "c8a212752fca8d9a4bef",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Daniel-konkine-project-5/static/css/main.85b87f1a.chunk.css",
-    "main.js": "/Daniel-konkine-project-5/static/js/main.02999456.chunk.js",
-    "main.js.map": "/Daniel-konkine-project-5/static/js/main.02999456.chunk.js.map",
+    "main.css": "/Daniel-konkine-project-5/static/css/main.4a43acad.chunk.css",
+    "main.js": "/Daniel-konkine-project-5/static/js/main.ba5df919.chunk.js",
+    "main.js.map": "/Daniel-konkine-project-5/static/js/main.ba5df919.chunk.js.map",
     "runtime-main.js": "/Daniel-konkine-project-5/static/js/runtime-main.fc2804ac.js",
     "runtime-main.js.map": "/Daniel-konkine-project-5/static/js/runtime-main.fc2804ac.js.map",
     "static/js/2.9accbb5d.chunk.js": "/Daniel-konkine-project-5/static/js/2.9accbb5d.chunk.js",
     "static/js/2.9accbb5d.chunk.js.map": "/Daniel-konkine-project-5/static/js/2.9accbb5d.chunk.js.map",
     "index.html": "/Daniel-konkine-project-5/index.html",
-    "precache-manifest.d5e6b45079562b628b9a491a38a9cd1c.js": "/Daniel-konkine-project-5/precache-manifest.d5e6b45079562b628b9a491a38a9cd1c.js",
+    "precache-manifest.81b87d31302fb9961f4e5ff7c51dcd05.js": "/Daniel-konkine-project-5/precache-manifest.81b87d31302fb9961f4e5ff7c51dcd05.js",
     "service-worker.js": "/Daniel-konkine-project-5/service-worker.js",
-    "static/css/main.85b87f1a.chunk.css.map": "/Daniel-konkine-project-5/static/css/main.85b87f1a.chunk.css.map",
+    "static/css/main.4a43acad.chunk.css.map": "/Daniel-konkine-project-5/static/css/main.4a43acad.chunk.css.map",
     "static/js/2.9accbb5d.chunk.js.LICENSE.txt": "/Daniel-konkine-project-5/static/js/2.9accbb5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fc2804ac.js",
     "static/js/2.9accbb5d.chunk.js",
-    "static/css/main.85b87f1a.chunk.css",
-    "static/js/main.02999456.chunk.js"
+    "static/css/main.4a43acad.chunk.css",
+    "static/js/main.ba5df919.chunk.js"
   ]
 }
