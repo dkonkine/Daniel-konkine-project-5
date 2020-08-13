@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Daniel-konkine-project-5/precache-manifest.79c5c94d6be0ff0a7ba1fa6ae537f4b2.js"
+  "/Daniel-konkine-project-5/precache-manifest.d5e6b45079562b628b9a491a38a9cd1c.js"
 );
 
 self.addEventListener('message', (event) => {
